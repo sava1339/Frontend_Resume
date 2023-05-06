@@ -1,0 +1,23 @@
+.experience{
+    border: 1px dashed black;
+    margin: auto;
+    width: 40%;
+    padding-left: 2em;
+    padding-top: 1em;
+    margin-top: 1em;
+}
+.experience p{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    width: 95%;
+}
+@media screen and (max-width: 940px) and (min-width: 730px){
+    .experience{
+        width: 60%;
+    }
+}
+@media screen and (max-width: 730px){
+    .experience{
+        width: 90%;
+    }
+}

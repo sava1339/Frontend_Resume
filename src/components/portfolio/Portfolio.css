@@ -1,0 +1,32 @@
+.portfolio{
+    border: 1px dashed black;
+    margin: auto;
+    width: 80%;
+    padding-left: 2em;
+    padding-top: 1em;
+    margin-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 4em;
+}
+.portfolio-block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50%;
+}
+.portfolio p{
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    width: 95%;
+}
+.portfolio img{
+    max-width: 90%;
+}
+@media screen and (max-width: 730px){
+    .portfolio-block{
+        width: 95%;
+    }
+}

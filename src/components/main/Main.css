@@ -1,0 +1,85 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    overflow-x: hidden;
+}
+.info{
+    border-left: 1px solid black;
+    width: 50%;
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+.info-top{
+    padding-left: 2em;
+}
+.skill-text{
+    margin-top: 1em;
+}
+.portfolio-logo{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.specialization span{
+    color:red;
+}
+.info-data-block{
+    margin-top: 2em;
+    display: flex;
+    flex-direction: column;
+}
+.info-data-block p{
+    font-size: 20px;
+}
+.hidden{
+    transform: translateX(50px);
+    opacity: 0;
+}
+.info-data-block-name{
+    margin-top: 0.5em;
+}
+.info-data-block-name span{
+    border-left: 2px solid black;
+    margin-right: 0.3em;
+}
+.show{
+    transition: transform 1s,opacity 0.6s;
+    transform: translateX(0);
+    opacity: 1;
+}
+.skill-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+.skill-img{
+    margin: 2em 1em 0 1em;
+    height: 32px;
+}
+.price{
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid black;
+    text-align: center;
+    font-size: 18px;
+}
+@media screen and (max-width: 940px) and (min-width: 730px){
+    .portfolio-logo{
+        width: 24rem;
+        height: 24rem;
+    }
+}
+@media screen and (max-width: 730px){
+    .main{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .info{
+        border: 0;
+        width: 90%;
+    }
+    .portfolio-logo{
+        width: 20rem;
+        height: 20rem;
+    }
+}
