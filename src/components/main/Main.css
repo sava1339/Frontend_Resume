@@ -63,7 +63,7 @@
     font-size: 18px;
 }
 @media screen and (max-width: 940px) and (min-width: 730px){
-    .portfolio-logo{
+    .portfolio-logo img{
         width: 24rem;
         height: 24rem;
     }
@@ -78,7 +78,7 @@
         border: 0;
         width: 90%;
     }
-    .portfolio-logo{
+    .portfolio-logo img{
         width: 20rem;
         height: 20rem;
     }
