@@ -85,7 +85,7 @@ const Main = () => {
                             </div>
                         </div>
                         <div className="price info-bottom">
-                            <p>46 000р/мес</p>
+                            <p>36 000р/мес</p>
                         </div>
                     </div>
                 </div>}
