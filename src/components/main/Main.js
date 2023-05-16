@@ -1,17 +1,17 @@
 import React, {useEffect, useState} from 'react';
-import portfolioLogo from './img/portfolio-logo.png';
+import portfolioLogo from './img/portfolio-logo.webp';
 import './Main.css';
 import './loader.css'
-import reactLogo from './img/img1-react-logo.png';
-import htmlLogo from './img/img2-HTML-logo.png';
-import cssLogo from './img/img3-CSS-logo.png';
-import nodeLogo from './img/img4-node-logo.png';
-import webpackLogo from './img/img5-webpack-logo.png';
-import reduxLogo from './img/img6-redux-logo.png';
-import postgresqlLogo from './img/img7-postgresql-logo.png';
-import sassLogo from './img/img8-sass-logo.png';
-import tsLogo from './img/img9-ts-logo.png';
-import jsLogo from './img/img10-js-logo.jpg';
+import reactLogo from './img/img1-react-logo.webp';
+import htmlLogo from './img/img2-HTML-logo.webp';
+import cssLogo from './img/img3-CSS-logo.webp';
+import nodeLogo from './img/img4-node-logo.webp';
+import webpackLogo from './img/img5-webpack-logo.webp';
+import reduxLogo from './img/img6-redux-logo.webp';
+import postgresqlLogo from './img/img7-postgresql-logo.webp';
+import sassLogo from './img/img8-sass-logo.webp';
+import tsLogo from './img/img9-ts-logo.webp';
+import jsLogo from './img/img10-js-logo.webp';
 
 
 const Main = () => {

@@ -1,10 +1,10 @@
 import React from 'react';
-import p1 from './img/P-1.png'
-import p2 from './img/P-2.png'
-import p3 from './img/P-3.png'
-import p4 from './img/P-4.png'
-import p5 from './img/P-5.png'
-import p6 from './img/P-6.png'
+import p1 from './img/P-1.webp'
+import p2 from './img/P-2.webp'
+import p3 from './img/P-3.webp'
+import p4 from './img/P-4.webp'
+import p5 from './img/P-5.webp'
+import p6 from './img/P-6.webp'
 import './Portfolio.css'
 const Portfolio = () => {
     return (
