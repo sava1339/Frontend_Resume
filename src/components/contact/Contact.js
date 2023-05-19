@@ -8,7 +8,7 @@ const Contact = () => {
             <div className="contacts">
                 <div>
                     <p>Почта: zsava0090@gmail.com</p>
-                    <p>Телефон: +8-951-946-0304</p>
+                    <p>Телефон: +7-951-946-0304</p>
                 </div>
                 <div>
                     <a href="https://t.me/Ysavely"  target="_blank" className="tel">Telegram</a>
