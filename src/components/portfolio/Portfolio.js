@@ -5,10 +5,15 @@ import p3 from './img/P-3.webp'
 import p4 from './img/P-4.webp'
 import p5 from './img/P-5.webp'
 import p6 from './img/P-6.webp'
+import p7 from './img/P-7.png'
 import './Portfolio.css'
 const Portfolio = () => {
     return (
         <div className="portfolio">
+            <div className="portfolio-block">
+                <img src={p7} alt=""/>
+                <a href='http://54.38.62.43/'>Магазин-донат для сети серверов по Майнкрафту</a>
+            </div>
             <div className="portfolio-block">
                 <img src={p1} alt=""/>
                 <p>Магазин по продаже детских подгузников</p>
