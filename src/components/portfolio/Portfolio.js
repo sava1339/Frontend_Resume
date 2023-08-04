@@ -12,7 +12,7 @@ const Portfolio = () => {
         <div className="portfolio">
             <div className="portfolio-block">
                 <img src={p7} alt=""/>
-                <a href='http://54.38.62.43/'>Магазин-донат для сети серверов по Майнкрафту</a>
+                <a href='http://astromine.landsproject.ru'>Магазин-донат для сети серверов по Майнкрафту</a>
             </div>
             <div className="portfolio-block">
                 <img src={p1} alt=""/>
