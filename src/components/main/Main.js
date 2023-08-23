@@ -68,7 +68,7 @@ const Main = () => {
                         <div className="info-top">
                             <h1 className="specialization hidden">Junior<span>+</span> Front-end developer</h1>
                             <div className='info-data-block'>
-                                <p className='info-data-block-name'>Якимов Савелий 15 лет <span></span> Живу в Березниках</p>
+                                <p className='info-data-block-name'>Якимов Савелий 16 лет <span></span> Живу в Березниках</p>
                                 <p className="skill-text">Навыки:</p>
                                 <div className="skill-list">
                                     <img className="hide skill-img" src={reactLogo} alt=""/>
