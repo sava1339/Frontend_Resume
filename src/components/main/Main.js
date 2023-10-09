@@ -12,6 +12,8 @@ import postgresqlLogo from './img/img7-postgresql-logo.webp';
 import sassLogo from './img/img8-sass-logo.webp';
 import tsLogo from './img/img9-ts-logo.webp';
 import jsLogo from './img/img10-js-logo.webp';
+import socketiIo from './img/img11-socketIo-logo.webp';
+import tailwind from './img/img12-Tailwind-logo.webp';
 
 
 const Main = () => {
@@ -81,6 +83,8 @@ const Main = () => {
                                     <img className="hide skill-img" src={sassLogo} alt=""/>
                                     <img className="hide skill-img" src={tsLogo} alt=""/>
                                     <img className="hide skill-img" src={jsLogo} alt=""/>
+                                    <img className="hide skill-img" src={socketiIo} alt=""/>
+                                    <img className="hide skill-img" src={tailwind} alt=""/>
                                 </div>
                             </div>
                         </div>
