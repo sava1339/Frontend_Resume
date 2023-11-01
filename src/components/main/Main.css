@@ -32,10 +32,7 @@
 .info-data-block p{
     font-size: 20px;
 }
-.hidden{
-    transform: translateX(50px);
-    opacity: 0;
-}
+
 .info-data-block-name{
     margin-top: 0.5em;
     padding-right: 0.5em;
@@ -43,6 +40,10 @@
 .info-data-block-name span{
     border-left: 2px solid black;
     margin-right: 0.3em;
+}
+.hidden{
+    transform: translateX(50px);
+    opacity: 0;
 }
 .show{
     transition: transform 1s,opacity 0.6s;

@@ -12,8 +12,8 @@ import postgresqlLogo from './img/img7-postgresql-logo.webp';
 import sassLogo from './img/img8-sass-logo.webp';
 import tsLogo from './img/img9-ts-logo.webp';
 import jsLogo from './img/img10-js-logo.webp';
-import socketiIo from './img/img11-socketIo-logo.webp';
-import tailwind from './img/img12-Tailwind-logo.webp';
+import socketiIo from './img/img11-socketIo-logo.svg';
+import tailwind from './img/img12-Tailwind-logo.svg';
 
 
 const Main = () => {
