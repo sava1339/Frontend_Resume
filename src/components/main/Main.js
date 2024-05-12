@@ -74,22 +74,14 @@ const Main = () => {
                                 <p className="skill-text">Навыки:</p>
                                 <div className="skill-list">
                                     <img className="hide skill-img" src={reactLogo} alt=""/>
-                                    <img className="hide skill-img" src={htmlLogo} alt=""/>
-                                    <img className="hide skill-img" src={cssLogo} alt=""/>
-                                    <img className="hide skill-img" src={nodeLogo} alt=""/>
-                                    <img className="hide skill-img" src={webpackLogo} alt=""/>
                                     <img className="hide skill-img" src={reduxLogo} alt=""/>
-                                    <img className="hide skill-img" src={postgresqlLogo} alt=""/>
-                                    <img className="hide skill-img" src={sassLogo} alt=""/>
+                                    <img className="hide skill-img" src={nodeLogo} alt=""/>
                                     <img className="hide skill-img" src={tsLogo} alt=""/>
-                                    <img className="hide skill-img" src={jsLogo} alt=""/>
-                                    <img className="hide skill-img" src={socketiIo} alt=""/>
+                                    <img className="hide skill-img" src={webpackLogo} alt=""/>
+                                    <img className="hide skill-img" src={sassLogo} alt=""/>
                                     <img className="hide skill-img" src={tailwind} alt=""/>
                                 </div>
                             </div>
-                        </div>
-                        <div className="price info-bottom">
-                            <p>36 000р/мес</p>
                         </div>
                     </div>
                 </div>}
