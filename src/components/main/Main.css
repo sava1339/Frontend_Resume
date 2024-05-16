@@ -86,3 +86,9 @@
         height: 20rem;
     }
 }
+.end_text{
+    color: white !important;
+    background-color: black;
+    padding: 4px 6px;
+    margin-left: 4px;
+}

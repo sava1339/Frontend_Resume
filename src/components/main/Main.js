@@ -68,7 +68,7 @@ const Main = () => {
                     </div>
                     <div className="info">
                         <div className="info-top">
-                            <h1 className="specialization hidden"><span>Frontend</span> developer</h1>
+                            <h1 className="specialization hidden">Front<span className='end_text'>end developer </span></h1>
                             <div className='info-data-block'>
                                 <p className='info-data-block-name'>Якимов Савелий 16 лет <span></span> Живу в Березниках</p>
                                 <p className="skill-text">Навыки:</p>
