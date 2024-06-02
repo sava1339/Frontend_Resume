@@ -15,7 +15,7 @@ const Portfolio = () => {
         <div className="portfolio">
             <div className="portfolio-block">
                 <img src={p7} alt=""/>
-                <a href='#'>Магазин-донат для сети серверов по Майнкрафту</a>
+                <p>Магазин-донат для сети серверов по Майнкрафту</p>
             </div>
             <div className="portfolio-block">
                 <img src={p8} alt=""/>
@@ -33,7 +33,7 @@ const Portfolio = () => {
                 <img src={p1} alt=""/>
                 <p>Магазин по продаже детских подгузников</p>
             </div>
-            <div className="portfolio-block">
+            {/* <div className="portfolio-block">
                 <img src={p2} alt=""/>
                 <p>Сайт для аренды квартир</p>
             </div>
@@ -52,7 +52,7 @@ const Portfolio = () => {
             <div className="portfolio-block">
                 <img src={p6} alt=""/>
                 <p>Простой сайт опросник</p>
-            </div>
+            </div> */}
         </div>
     );
 };
