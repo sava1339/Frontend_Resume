@@ -10,7 +10,7 @@ const Contact = () => {
                     <p>Почта: zsava0090@gmail.com</p>
                 </div>
                 <div>
-                    <a href="https://t.me/Ysavely"  target="_blank" className="tel">Telegram</a>
+                    <a href="https://t.me/YakYsavely"  target="_blank" className="tel">Telegram</a>
                     <a href="https://vk.com/ysavely" target="_blank" className="vk">VK</a>
                 </div>
             </div>
